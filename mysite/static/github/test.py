@@ -1,1 +1,1 @@
-GitHub PUSH Test
+GitHub push Test
