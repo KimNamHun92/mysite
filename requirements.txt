@@ -1,2 +1,2 @@
-django==2.2.14
+django==2.2.22
 mysqlclient==1.4.6
